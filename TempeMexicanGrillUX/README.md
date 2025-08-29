@@ -19,10 +19,3 @@ An end-to-end UX project for the Tempe Mexican Grill website covering research, 
 ## How to Use
 - Open `Singh_Workbook.pdf` for the complete write-up.
 - Explore the linked prototypes and research artifacts.
-
----
-
-## About Me
-I’m **Anushka Singh**, a Product Manager focused on building user-centered solutions with measurable outcomes. I work across research, design, and delivery to improve usability, adoption, and engagement.
-
-**Connect**: [LinkedIn](https://www.linkedin.com/in/anushka-singh-8ababa1b2/) • [Email](mailto:anu02singh11@gmail.com)
