@@ -24,7 +24,7 @@ It includes a full cycle of UX research and design:
 📄 Full report: (https://github.com/anu02singh/anushka-repo/blob/main/TempeMexicanGrillUX/Singh_Workbook.pdf)  
 
 🔗 Key Links:
-- [Figma Prototype](https://www.figma.com/file/35HnNMZp4H1AJBzGQA3Gaf/Singh_Final_Prototype)
+- 👉 [Figma Prototype](https://www.figma.com/file/35HnNMZp4H1AJBzGQA3Gaf/Singh_Final_Prototype)
 
 
 # 2. Global YouTube Statistics 2023 📊
