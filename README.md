@@ -21,7 +21,7 @@ It includes a full cycle of UX research and design:
 - **Prototypes** – Designed low- and high-fidelity prototypes in Figma.  
 - **Accessibility Audit** – Assessed the site for WCAG 2.1 compliance.
 
-📄 Full report: [Singh_Workbook.pdf](./Singh_Workbook.pdf)  
+📄 Full report: (https://github.com/anu02singh/anushka-repo/blob/main/TempeMexicanGrillUX/Singh_Workbook.pdf)  
 
 🔗 Key Links:
 - [Figma Prototype](https://www.figma.com/file/35HnNMZp4H1AJBzGQA3Gaf/Singh_Final_Prototype)
